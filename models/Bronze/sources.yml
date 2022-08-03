@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: iot_dashboard
+    schema: iot_dashboard
+    tables:
+      - name: bronze_sensors
+      - name: bronze_users
